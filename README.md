@@ -1,2 +1,2 @@
 # Menu-Manager
-Manu manager with jsTree
+Menu manager with jsTree
