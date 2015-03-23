@@ -1,0 +1,9 @@
+[
+{"id":1,"type":"root","text":"Root node","children":[
+	{"id":2,"text":"Child node 1", "state" : { "disabled" : true }},
+	{"id":3,"text":"Child node 2"},
+	{"id":4,"text":"Child node 3","children":[
+	{"id":5, "type":"file", "text":"Child node 4"},
+	{"id":6,"text":"Child node 5"},
+	{"id":7,"text":"Child node 6"}]}]
+	}]
